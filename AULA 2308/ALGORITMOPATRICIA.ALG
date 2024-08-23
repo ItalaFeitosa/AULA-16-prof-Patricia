@@ -1,4 +1,4 @@
-Algoritmo "ALUNOS E FALTAS"
+Algoritmo "ALUNOS E FALTAS alteracao do arquivo"
 
 Var
 i, QFalt, N: inteiro
